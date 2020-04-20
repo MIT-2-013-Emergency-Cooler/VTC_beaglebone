@@ -1,2 +1,1 @@
-# VTC_beaglebone
-For scripts to run on the VTC Beaglebone controller
+# cloud9-examples
